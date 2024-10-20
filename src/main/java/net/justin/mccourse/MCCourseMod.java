@@ -16,8 +16,6 @@ public class MCCourseMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		// Important comment
-
 		LOGGER.info("Hello Fabric world!");
 	}
 }
